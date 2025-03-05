@@ -22,66 +22,64 @@
 <h4>Este Curso estou apredendo, essas tecnologias : <h4>
 
 
-    <ul>
-
-        <li>Desenvolvimento web front-end</li>
+        - Desenvolvimento web front-end
         
-        <li>CSS3</li>
+        - CSS3
 
-        <li>Flexbox</li>
+        - Flexbox
 
-        <li>Grade</li>
+        - Grade
 
-        <li>Bootstrap 5</li>
+        - Bootstrap 5
 
-        <li>Javascript ES6</li>
+        - Javascript ES6
 
-        <li>Manipulação de DOM</li>
+        - Manipulação de DOM
 
-        <li>jQuery</li>
+        - jQuery
 
-        <li>Linha de comando do Bash</li>
+        - Linha de comando do Bash
 
-        <li>Git, GitHub e controle de versão</li>
+        - Git, GitHub e controle de versão
 
-        <li>Desenvolvimento web back-end</li>
+        - Desenvolvimento web back-end
 
-        <li>Node.js</li>
+        - Node.js
 
-        <li>NPM</li>
+        - NPM
 
-        <li>Express.js</li>
+        - Express.js
 
-        <li>EJS</li>
+        - EJS
 
-        <li></li>
+        - 
 
-        <li>APIs</li>
+        - APIs
 
-        <li>Bancos de dados</li>
+        - Bancos de dados
 
-        <li>SQL</li>
+        - SQL
 
-        <li>PostgreSQL</li>
+        - PostgreSQL
 
-        <li>Autenticação</li>
+        - Autenticação
 
-        <li>React.js</li>
+        - React.js
 
-        <li>React Hooks</li>
+        - React Hooks
 
-        <li>Web Design</li>
+        - Web Design
 
-        <li>Implantação com GitHub Pages</li>
+        - Implantação com GitHub Pages
 
-        <li>Desenvolvimento Web3 no Internet Computer</li>
+        - Desenvolvimento Web3 no Internet Computer
 
-        <li>Tecnologia Blockchain</li>
+        - Tecnologia Blockchain
 
-        <li> Desenvolvimento de contrato de token</li>
+        -  Desenvolvimento de contrato de token
 
-        <li> Lógica de cunhagem, compra e venda de NFT</li>
-</ul>
+        - Lógica de cunhagem, compra e venda de NFT
+
 
 
 
