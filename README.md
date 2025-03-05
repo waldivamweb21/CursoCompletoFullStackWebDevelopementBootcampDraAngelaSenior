@@ -1,6 +1,6 @@
 # The Complete Full-Stack Web Development Bootcamp
 
-<h1>Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps</h1>
+<h2>Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps</h2>
 
 
 # Pictures Capa Do Curso
@@ -9,19 +9,19 @@
 
 # Descrição
 
-<h2>O Complete Web Development Bootcamp, é o único curso que estou aprendendo a programar e se tornar um desenvolvedor web full-stack. Aqui na Plataforma Udemy!</h2>
+<h3>O Complete Web Development Bootcamp, é o único curso que estou aprendendo a programar e se tornar um desenvolvedor web full-stack. Aqui na Plataforma Udemy!</h3>
 
-<h3>Com mais de 62 horas, O curso de Desenvolvimento Web é, sem dúvida, o curso de desenvolvimento web mais abrangente disponível online. Aprendendo para ser entrar no mercado de nível Junior até o Pleno.:</h3>
+<h4>Com mais de 62 horas, O curso de Desenvolvimento Web é, sem dúvida, o curso de desenvolvimento web mais abrangente disponível online. Aprendendo para ser entrar no mercado de nível Junior até o Pleno.:</h4>
 
 
-<p>Apredendo neste Curso que abrange<b>62 horas</b> de aprendizado.</p>
+<h4>Apredendo neste Curso que abrange<b>62 horas</b> de aprendizado.</h4>
 
 
 # Tecnologias 
 
-<h3>Este Curso estou apredendo, essas tecnologias : <h3>
+<h4>Este Curso estou apredendo, essas tecnologias : <h4>
 
-<p>
+
     <ul>
 
         <li>Desenvolvimento web front-end</li>
@@ -81,12 +81,11 @@
         <li> Desenvolvimento de contrato de token</li>
 
         <li> Lógica de cunhagem, compra e venda de NFT</li>
-
 </ul>
 
-</p>
+
 
 # Conclusao 
 
-<p>Com este curso estarei familiarizado com algumas tecnologias e irei posteriormente concorrer a uma vaga de emprego na área de desenvolvimento WEB.<p>
+<h4>Com este curso estarei familiarizado com algumas tecnologias e irei posteriormente concorrer a uma vaga de emprego na área de desenvolvimento WEB.</h4>
 
